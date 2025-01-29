@@ -1,4 +1,4 @@
-Playback-Speed
+# Playback-Speed
 
 This Python script takes user input and replaces every space in the input text with three dots (...).
 
